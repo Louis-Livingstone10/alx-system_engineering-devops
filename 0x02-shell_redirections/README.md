@@ -1,1 +1,1 @@
-Dispalying the last ten lines
+First lines
