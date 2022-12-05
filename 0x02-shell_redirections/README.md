@@ -1,1 +1,1 @@
-hello world script
+Dispalay a files content
