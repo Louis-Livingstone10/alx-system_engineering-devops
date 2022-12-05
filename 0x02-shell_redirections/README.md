@@ -1,1 +1,1 @@
-Good file
+No more Javascript files
