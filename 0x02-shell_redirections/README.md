@@ -1,1 +1,1 @@
-Whats next
+Hide this word
