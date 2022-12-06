@@ -1,1 +1,1 @@
-A-Z
+Remove all letters
